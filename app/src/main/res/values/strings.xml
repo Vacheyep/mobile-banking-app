@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Banking Application</string>
+    <string name="idram_and_idBank"><![CDATA[idram & IDBank]]></string>
+    <string name="connecting">connecting...</string>
+    <string name="log_in_or_sign_up">Log in or Sign up</string>
+    <string name="lets_get_started">Let\'s get started! We need your phone number to verify you.Just type it below to continue the process</string>
+    <string name="public_agreement">Public Agreement</string>
+    <string name="next">NEXT</string>
+    <string name="by_tapping_etc">By tapping \"NEXT\" you agree to the terms of our</string>
+    <string name="eng">Eng</string>
+    <string name="password">Password</string>
+    <string name="enter_the_password">Enter the password you created during registration. It must be composed of letters, numbers and simbols</string>
+    <string name="if_u_dont_remember">"If You don'n remember, "</string>
+    <string name="reset_password">Reset password</string>
+    <string name="pin_code">PIN code</string>
+    <string name="enter_the_pin">Enter the PIN code used to unlock the app and confirm payments. It must consist of 6 numbers.</string>
+    <string name="reset_pin_code">Reset PIN code</string>
+    <string name="log_out">Log out</string>
+    <string name="authorization">Authorization</string>
+    <string name="please_enter_your_pin">Please enter your PIN code to coninue or use Face or Touch ID instead</string>
+    <string name="recover_pin_code">Recover PIN code</string>
+    <string name="a_verifi_code">A verification code will be sent to your mobile number</string>
+    <string name="get_the_code">GET THE CODE</string>
+    <string name="entry_screen">Entry Screen</string>
+    <string name="log_in_screen">Log in or Sign Up</string>
+    <string name="password_screen">Password Screen</string>
+    <string name="authorization_screen">Authorization Screen</string>
+    <string name="home_screen">Home screen</string>
+    <string name="attention">Attention!</string>
+    <string name="are_u_sure">Are you sure you wont to log out from the app?</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="language_screen">Language screen</string>
+    <string name="you_can_continue">You can continue with this number</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="recover_password">Recover password</string>
+    <string name="specialCharacters"><![CDATA["\"!@#$%^&*()_+-={}[];:'\\\",.<>/? "]]></string>
+    <string name="name">name from token</string>
+    <string name="role">the account role from token\n</string>
+</resources>
